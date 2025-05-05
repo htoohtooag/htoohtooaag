@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=I+live+to+code.;I+code+to+create.;I+build+ideas+into+apps." />
 </p>
 
-<br>🌱 I’m currently diving into Next.js 15, Supabase, and full-stack SaaS<br><br>🛠️ Tech Stack: React, MongoDB, Tailwind CSS, Firebase, TypeScript, Laravel<br><br>🔭 Building side projects and learning new things every day<br><br>💬 I love solving problems and turning ideas into real products<br><br>🧠 Quote I live by: “First, solve the problem. Then, write the code.”
+<br>🌱 I’m currently diving into Next.js 15, Supabase, and full-stack SaaS<br><br>🛠️ Tech Stack: React, MongoDB, Tailwind CSS, Firebase, TypeScript, Laravel<br><br>🔭 Building side projects and learning new things every day<br><br>💬 I love solving problems and turning ideas into real products<br><br>🧠 Quote I live by: “We Live We Code We Yoke”
 
 
 ## 🌐 Socials:
